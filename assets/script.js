@@ -9,4 +9,4 @@ lamp.addEventListener( 'click', () => {
         lamp.src = './assets/lamp_off.png'
         document.body.style.background = 'radial-gradient(circle, white 8%, black 100%)';
     }
-});     
+}); 
